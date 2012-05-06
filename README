@@ -1,1 +1,6 @@
-This is our first pentestgeek.com project
+pgcrawler is a single depth website crawler.  It can be used to quickly identify a list of URLs from a given page.  Increased functionality soon to come.
+
+Required Gems:
+Nokogiri
+
+~R3dy
